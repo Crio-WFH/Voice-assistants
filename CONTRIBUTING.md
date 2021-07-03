@@ -9,9 +9,6 @@
 `As a developer who can enhance the experience of the troubled WFH individual. :P`
 
 
-
-\<!-- Place holder for briefing the event details with links where ever required. -->
-
 Kindly refer the [getting started guide](https://docs.google.com/document/d/1z5cJHJkuhkMkWyAPTD7seIzH04MhD0dwNkEC6BvQwFk/edit) for detailed instructions.
 
 #### Note for PR proposals
