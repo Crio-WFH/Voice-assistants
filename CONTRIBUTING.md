@@ -20,7 +20,6 @@ Kindly utilise the templates provided in the `.github` directory of the main bra
 
 For proposing a PR with a new piece of software, utilise PR template `pull_request_template.md` using GitHub API.
 
-https://docs.google.com/document/d/1DXgKki3EcEEb-99Oqyyq0WLItTBhXj3aZ1swtKkwg6U/edit
 Kindly refer the [Submission Guidelines Document](https://docs.google.com/document/d/1DXgKki3EcEEb-99Oqyyq0WLItTBhXj3aZ1swtKkwg6U/edit) for detailed instructions regarding submission via GitHub UI.
 
 ### Instructions regarding traditional workflow
