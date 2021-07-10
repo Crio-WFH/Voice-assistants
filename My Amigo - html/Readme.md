@@ -7,9 +7,12 @@ This voice assistant is just like alexa . it is made with html, css and javascri
 
 ## ScreenShot
 ![](Images/ss1.png)
+![](Images/ss2.png)
 
 ## Functions
-- Tell about everything you ask.
+- Tells about everything you ask.
+- Works like google assistant.
+- Works on google chrome or any browser. 
 
 
 ## Author
